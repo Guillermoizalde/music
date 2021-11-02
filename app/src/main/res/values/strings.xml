@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music</string>
+    <dimen name="text_size">14sp</dimen>
+</resources>
